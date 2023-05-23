@@ -1,0 +1,81 @@
+/* Navbar */
+.navigationBar {
+  padding-left: 25%;
+}
+
+.MyNavbar {
+  background-color: gray;
+}
+
+/* Home Page */
+
+.heading {
+  position: absolute;
+  z-index: 1;
+  padding: 20% 10%;
+}
+
+.buybox {
+  margin: 35px;
+}
+
+/* About us */
+
+.aboutus {
+  padding: 3% 15%;
+}
+
+.aboutText1 {
+  padding: 10% 0;
+}
+
+.aboutText2 {
+  padding: 10% 0;
+  padding-left: 15%;
+}
+
+.aboutButton:hover {
+  background-color: rgb(105, 224, 105);
+}
+
+/* Contact Us */
+
+.contactForm {
+  margin: 5% 20%;
+}
+
+.bg-shadow {
+  box-shadow: 0 0 5px grey;
+}
+
+input {
+  border: none;
+}
+
+/* Footer */
+.footer-img {
+  border-radius: 50%;
+}
+
+li {
+  padding: 5px 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+a:hover {
+  color: rgb(205, 36, 64);
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.icons {
+  margin-left: 41%;
+}
+
+.textblock {
+  border: 2px;
+}
